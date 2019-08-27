@@ -1,7 +1,7 @@
 # IPL
 
-Necessary Tools : XAMPP Server for localhost server, Python
-Python packages to be installed : numpy, pandas, pickle, mysql.connector, flask, flask_restful, sklearn
+- Necessary Tools : XAMPP Server for localhost server, Python
+- Python packages to be installed : numpy, pandas, pickle, mysql.connector, flask, flask_restful, sklearn
 
 Setup Instructions :
 - Place the ipl-redesigned folder within frontend folder in the xampp/htdocs folder(default installation path - C:\xampp\htdocs
